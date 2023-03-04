@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      {/* <Header /> */}
+      
       <section className="cards-list">
         {cards}
       </section>
