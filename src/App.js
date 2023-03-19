@@ -23,7 +23,7 @@ function App() {
       </section>
       <div className="card-question border-2 rounded-lg border-slate-500 text-lg font-medium box-content w-64 h-24 text-center content-between">
         <h3>
-          Please, Contact us if you have any questions.
+          Please, Contact us if you have any questions at: contact-us@qatustore.com
         </h3>
       </div>
     </div>
