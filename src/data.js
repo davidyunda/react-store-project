@@ -97,7 +97,7 @@ export default [
         ProductPrice: 45.00,
         OriginalPrice: "52.00",
         ProductDescription: "This neutral eye shadow palette has a versatile range of 14 super-blendable warm-to-cool matte and shimmer eye shadows. Create neutral to megawatt smoky eye looks with velvety smooth mattes and long-wearing shimmers that stun on all skin tones. Includes a double-ended shadow brush, step-by-step guide and a deluxe sample size of 24 Photo Finish Hour Shadow Primer to lock in your eye look.",
-        ProductQuantityOnHand: 1,
+        ProductQuantityOnHand: 2,
         ProductImage: "011.jpeg"
       },
       {
@@ -124,7 +124,7 @@ export default [
         ProductID: 14,
         ProductBrand: "Luna Liner",
         ProductName: "Water-Resistant Liquid Eyeliner",
-        ProductPrice: 16.00,
+        ProductPrice: 16.99,
         OriginalPrice: "18.99",
         ProductDescription: "A vegan, fadeproof, water-resistant liquid eyeliner that features an intensely black ink for the ultimate eye definition. The micro brush tip glides on smoothly, dispensing just the right amount of liquid as you apply, so you’re able to create precise definition where you want.",
         ProductQuantityOnHand: 1,
@@ -271,34 +271,55 @@ export default [
         ProductImage: "028.webp"
       },
       {
-        ProductID: 10,
-        ProductBrand: "Estee Lauder",
-        ProductName: "Pure Color Envy Sculpting Lipsticks Trio",
-        ProductPrice: 66.99,
-        OriginalPrice: "69.99",
-        ProductDescription: "",
+        ProductID: 29,
+        ProductBrand: "Too Faced",
+        ProductName: "Crystal Whips Shimmering Eye Shadow Veil - Tap That",
+        ProductPrice: 11.00,
+        OriginalPrice: "12.00",
+        ProductDescription: "This shimmering, whipped eye shadow formula created with a unique blend of pigments and suspended multicolor pearls can also be used to light up face and lips for 12 hours of no-fuss wear.",
         ProductQuantityOnHand: 1,
-        ProductImage: "download-2.jpg"
+        ProductImage: "029.jpeg"
       },
       {
-        ProductID: 10,
-        ProductBrand: "Estee Lauder",
-        ProductName: "Pure Color Envy Sculpting Lipsticks Trio",
-        ProductPrice: 66.99,
-        OriginalPrice: "69.99",
-        ProductDescription: "",
+        ProductID: 30,
+        ProductBrand: "Too Faced",
+        ProductName: "Crystal Whips Shimmering Eye Shadow Veil - Pop The Bubbly",
+        ProductPrice: 11.00,
+        OriginalPrice: "12.00",
+        ProductDescription: "This shimmering, whipped eye shadow formula created with a unique blend of pigments and suspended multicolor pearls can also be used to light up face and lips for 12 hours of no-fuss wear.",
         ProductQuantityOnHand: 1,
-        ProductImage: "download-2.jpg"
+        ProductImage: "030.webp"
       },
       {
-        ProductID: 10,
+        ProductID: 31,
         ProductBrand: "Estee Lauder",
-        ProductName: "Pure Color Envy Sculpting Lipsticks Trio",
-        ProductPrice: 66.99,
-        OriginalPrice: "69.99",
-        ProductDescription: "",
-        ProductQuantityOnHand: 1,
-        ProductImage: "download-2.jpg"
+        ProductName: "Pure Color Envy Paint-On Liquid Lip Color - 401 Burnt Raisin",
+        ProductPrice: 28.00,
+        OriginalPrice: "29.99",
+        ProductDescription: "Lavishing the lips in an intensely rich and comforting finish, Pure Color Envy Paint On Liquid Lipcolor provides full colour in a liquid formula. Smooths the lips, leaving them comfortable with a range of matte, vinyl and metallic finishes.",
+        ProductQuantityOnHand: 2,
+        ProductImage: "031.jpeg"
       },
+      {
+        ProductID: 32,
+        ProductBrand: "Bobbi Brown",
+        ProductName: "Crushed Lip Color - Sazan Nude",
+        ProductPrice: 31.00,
+        OriginalPrice: "32.00",
+        ProductDescription: "A formula with the look of a lipstick and the feel of a balm, for Bobbi Brown’s most wearable lip yet.",
+        ProductQuantityOnHand: 2,
+        ProductImage: "032.webp"
+      },
+      {
+        ProductID: 33,
+        ProductBrand: "Ciate London",
+        ProductName: "Shadow Flip Multi-Chromatic Shifting Liquid Shadow - Wonder",
+        ProductPrice: 15.00,
+        OriginalPrice: "19.00",
+        ProductDescription: "Take liquid eyeshadow to new dimensions with Ciate Londons Duos Glo. The color shifting shade flipping duo chrome pigments create an instantly blended look in one easy application.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "033.jpeg"
+      },
+      
 
 ]

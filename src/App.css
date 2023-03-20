@@ -18,6 +18,7 @@
 
 img {
   width: 270px;
+  height: 270px;
 }
 
 .box-product {
@@ -31,7 +32,7 @@ img {
 
 .product-name {
   font-size: medium;
-  font-weight: 650;
+  font-weight: 50;
 }
 
 .product-price {
@@ -59,6 +60,7 @@ img {
 
   img {
     width: 168px;
+    height: 180px;
   }
 
   .product-name {
@@ -84,6 +86,7 @@ img {
 
   img {
     width: 157px;
+    height: 180px;
   }
 
   .product-name {

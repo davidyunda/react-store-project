@@ -10,7 +10,7 @@ export default function Content(props) {
                     <div className="box-product rounded-sm">
                         <p className="product-brand">{props.product.ProductBrand}</p>
                         <p className="product-name">{props.product.ProductName}</p>
-                        <p className="product-price">${props.product.ProductPrice}</p>
+                        <p className="product-price">${props.product.ProductPrice.toFixed(2)}</p>
                     </div>
                 </div>
 
