@@ -320,6 +320,135 @@ export default [
         ProductQuantityOnHand: 1,
         ProductImage: "033.jpeg"
       },
-      
+      {
+        ProductID: 34,
+        ProductBrand: "V Kosmetik",
+        ProductName: "Creamy Liquid Velvet Lipstick - Bubbly",
+        ProductPrice: 18.00,
+        OriginalPrice: "27.00",
+        ProductDescription: "Unlike any other lip color you’ve ever seen, this liquid velvet lipstick is THE product you need to add to your make up kit. Formulated to be creamy, lightweight, and long-wearing, make a unique statement with your fashion-forward vibe.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "034.avif"
+      },
+      {
+        ProductID: 35,
+        ProductBrand: "Mac",
+        ProductName: "Powder Kiss Lipstick - 314 Mull It Over",
+        ProductPrice: 23.00,
+        OriginalPrice: "25.00",
+        ProductDescription: "Matte, reinvented. Moisture-matte and weightless, Powder Kiss Lipstick is formulated with moisture-coated powder pigments that condition and hydrate lips, while delivering the blurred matte look you want. 0.1 oz. Imported.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "035.webp"
+      },
+      {
+        ProductID: 36,
+        ProductBrand: "Too Faced",
+        ProductName: "Tutti Frutti Fruit Cocktail Blush Duo - Apricotic In The Act",
+        ProductPrice: 31.00,
+        OriginalPrice: "34.00",
+        ProductDescription: "Too Faced Tutti Frutti Fruit Cocktail Blush Duo can be used individually to blush or glow, or can be mixed together for a multidimensional flush. Enjoy two deliciously different finishes in one compact for maximum versatility and customization. Plus, each blush duo has a unique scent that matches the fruit they were inspired by!",
+        ProductQuantityOnHand: 1,
+        ProductImage: "036.webp"
+      },
+      {
+        ProductID: 37,
+        ProductBrand: "Clinique",
+        ProductName: "Clinique Smart Night - Custom-Repair Moisturizer",
+        ProductPrice: 60.00,
+        OriginalPrice: "65.00",
+        ProductDescription: "Potent de-aging night cream for Dry/Combination Skin Types. Works all night to help visibly smooth lines and wrinkles, even skin tone, and lift. Smart hydration technology helps skin attract and retain moisture. Oil-free. Enjoy a soothing boost of hydration with this potent de-aging formula. Clinique's smart nighttime moisturizer helps target all major signs of aging.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "037.webp"
+      },
+      {
+        ProductID: 38,
+        ProductBrand: "Clinique",
+        ProductName: "Dramatically Different Oil-Control Gel + Acc For Uneven Lines & Wrinckles",
+        ProductPrice: 35.00,
+        OriginalPrice: "37.00",
+        ProductDescription: "What it is: A system that combines a Dramatically Different base of your choice with a cartridge to target lines and wrinkles. Active Cartridge Concentrate(TM) for Lines & Wrinkles (0.34 oz.): a special hydration base designed to work in conjunction with your Dramatically Different moisturizer for your skin type that adds a special boost to help smooth lines and re-plump skin. Dramatically Different Moisturizing BB-Gel for All Skin Types (3.9 oz.):",
+        ProductQuantityOnHand: 1,
+        ProductImage: "038.webp"
+      },
+      {
+        ProductID: 39,
+        ProductBrand: "Clinique",
+        ProductName: "Dramatically Oil-Control Gel + Acc for Uneven Skin Texture ",
+        ProductPrice: 36.00,
+        OriginalPrice: "38.00",
+        ProductDescription: "A first-of-its-kind custom-blend moisturiser that hydrates and treats your main skin concern, your way. Combines a hydration base of Dramatically Different Oil Free Gel™ with Active Cartridge Concentrate for Pores & Uneven Texture.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "039.webp"
+      },
+      {
+        ProductID: 40,
+        ProductBrand: "Estee Lauder",
+        ProductName: "Resilience Multi-Effect Oil-in-Creme Infusion",
+        ProductPrice: 94.99,
+        OriginalPrice: "102.00",
+        ProductDescription: "This extra rich, 20% oil-in-creme drenches your dry, vulnerable skin with an intensive infusion of deep hydrators and ultra-restorative lipids. \n Skin is plumped, supple—more resilient. Radiance is re-ignited. \n And, with our advanced youth-infusing complexes, skin looks significantly smoother. \n Now get the nourishment you crave—and start to look as young as you feel. \n This extra rich, 20% oil-in-creme helps break the cycle of dryness and re-ignite your skin's natural lifting power with an intensive infusion of deep hydrators and ultra restorative lipids. Our advanced lifting complexes and a powerful densifying complex help even very dry skin boost its natural collagen and elastin to reveal a more sculpted, defined look. Re-strengthen your skin's protective barrier. Renew its supple softness. Re-ignite your inner radiance.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "040.webp"
+      },
+      {
+        ProductID: 41,
+        ProductBrand: "Glow On 5th",
+        ProductName: "REFRESH + RESET - Brightening Mud Mask",
+        ProductPrice: 14.00,
+        OriginalPrice: "30.00",
+        ProductDescription: "Dull, uneven skin has finally met its match. Brighten your skin's natural radiance by using our Ginger Mud Mask, infused with Ginger Root and Taurine to re-energize skin and minimize fatigue, boost circulation, and help with rehydration. Use 1-3x per week and give the gift of instantly radiant skin.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "041.png"
+      },
+      {
+        ProductID: 42,
+        ProductBrand: "Mudmasky",
+        ProductName: "Mineral-Infused Double Cleansing Mask",
+        ProductPrice: 21.00,
+        OriginalPrice: "49.00",
+        ProductDescription: "This non-foaming, fragrance-free cleansing mask is infused with rich minerals to detoxify and deep cleanse your face before bedtime. Formulated with a blend of cleansing minerals and MUDMASKY’s signature Premium Moroccan Lava Clay, this effective formula aids in restoring your skin’s pH levels, reducing redness, and preventing acne.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "042.png"
+      },
+      {
+        ProductID: 43,
+        ProductBrand: "Mudmasky",
+        ProductName: "Vitamin-infused Eye Serum",
+        ProductPrice: 27.00,
+        OriginalPrice: "63.00",
+        ProductDescription: "Vitamin Infused Eye Serum contains a blend of natural vitamin C. Vitamin C is an essential ingredient for firming the skin. It has a refreshing effect and a strong antioxidant action. This serum is ideal for all skin types and is considered a superfood for your skin. Extremely high vitamin C content. Reduces dark circles under the eyes. Significantly softens the skin under the eyes.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "043.jpeg"
+      },
+      {
+        ProductID: 44,
+        ProductBrand: "Clinique",
+        ProductName: "Fresh Pressed Clinical™ Daily + Overnight Boosters with Vitamins C + A",
+        ProductPrice: 43.00,
+        OriginalPrice: "48.00",
+        ProductDescription: "ATogether, they deliver results equal to a leading prescription for lines and wrinkles. Simply mix a few pumps with your favorite Clinique moisturizer—Vitamin C in the morning, Vitamin A at night. Enjoy a potent de-aging boost without changing the moisturizer you love.",
+        ProductQuantityOnHand: 2,
+        ProductImage: "044.webp"
+      },
+      {
+        ProductID: 45,
+        ProductBrand: "Origins",
+        ProductName: "A Perfect World™ For Eyes Firming Moisture Treatment with White Tea",
+        ProductPrice: 33.00,
+        OriginalPrice: "44.00",
+        ProductDescription: "Instantly renews under eyes—helps firm with moisture, tones & brightens dark circles. Plus, antioxidant-rich White Tea helps defend against oxidation to lessen the appearance of new creases & crinkles. Dermatologist & Ophthalmogist tested.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "045.webp"
+      },
+      {
+        ProductID: 46,
+        ProductBrand: "MAC",
+        ProductName: "Lipstick Matte - Sin",
+        ProductPrice: 12.00,
+        OriginalPrice: "22.00",
+        ProductDescription: "MAC Lipstick Matte is a creamy, rich lipstick formula with high-color payoff in a matte finish.",
+        ProductQuantityOnHand: 2,
+        ProductImage: "046.webp"
+      },
 
 ]
