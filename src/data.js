@@ -450,5 +450,25 @@ export default [
         ProductQuantityOnHand: 2,
         ProductImage: "046.webp"
       },
+      {
+        ProductID: 47,
+        ProductBrand: "Estee Lauder",
+        ProductName: "Bronze Goddess Shimmering Oil Spray For Hair & Body",
+        ProductPrice: 52.00,
+        OriginalPrice: "54.00",
+        ProductDescription: "It's endless summer. This super-luxurious shimmer spray, now with an all-new look, helps revitalize and condition dull, dry skin. It also helps tame flyaway hair, reduce frizz and enhance gloss and shine. \nIt's an endless summer. This super-luxurious shimmer spraynow with an all-new lookhelps revitalize and condition dull, dry skin. Helps tame flyaway hair, reduce frizz and enhance gloss and shine. Lightly scented with the seductive, sun-kissed Bronze Goddess Eau Fraîche fragrance.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "047.webp"
+      },
+      {
+        ProductID: 48,
+        ProductBrand: "Estee Lauder",
+        ProductName: "Youth-Dew Eau de Parfum 'Fragrance' ",
+        ProductPrice: 35.00,
+        OriginalPrice: "44.00",
+        ProductDescription: "Simply the sexiest fragrance ever. Absolutely captivating, with opulent flowers, rich spices, precious woods. In 1953, Estée Lauder introduced Youth-Dew as a scented bath oil that doubled as a perfume--and the world of fragrance was forever changed. Until then, women had relied on the men in their lives to give them perfume as a special gift. But Youth-Dew was created for women to buy for themselves...and they did. Even today, its captivating, sexy spiciness ensures that this true classic remains a favorite.",
+        ProductQuantityOnHand: 1,
+        ProductImage: "048.webp"
+      },
 
 ]
