@@ -12,7 +12,7 @@
 .card {
   width: 270px;
   /* height: 350px; */
-  border: 1px solid;
+  /* border: 1px solid; */
   border-style: groove;
 }
 
@@ -22,7 +22,7 @@ img {
 }
 
 .box-product {
-  text-align: center;
+  text-align: left;
   height: 125px;
 }
 
@@ -71,7 +71,7 @@ img {
   }
 
   .box-product {
-    height: 139px;
+    height: 160px;
   }
 }
 
@@ -97,7 +97,7 @@ img {
   }
 
   .box-product {
-    height: 140px;
+    height: 160px;
   }
 }
 
@@ -123,7 +123,7 @@ img {
   }
 
   .box-product {
-    height: 140px;
+    height: 160px;
   }
 }
 
@@ -149,7 +149,7 @@ img {
   }
 
   .box-product {
-    height: 140px;
+    height: 160px;
   }
 }
 
@@ -176,6 +176,6 @@ img {
   }
 
   .box-product {
-    height: 140px;
+    height: 180px;
   }
 }
